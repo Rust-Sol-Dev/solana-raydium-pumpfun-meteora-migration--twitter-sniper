@@ -8,7 +8,7 @@ A Solana tool to buy the latest coins on Pump.Fun, including King of The Hill co
 **!! MAKE SURE TO SET YOUR SETTINGS BEFORE TRYING TO RUN THE BOT. !! THIS INCLUDES YOUR PRIVATE KEY AND RPC URL (EDIT THE FILE), BUT ALSO WITHIN THE BOT'S SETTINGS THE MINIMUM MARKET CAP, MINIMUM REPLY COUNT, REQUIRE TELEGRAM, REQUIRE WEBSITE, REQUIRE TWITTER, REQUIRE REVOKED MINT AUTHORITY AND FREEZE AUTHORITY, ENABLE AUTO BUY, SET BUY AMOUNT, ENABLE TAKE PROFIT, SET TAKE PROFIT PERCENTAGE, ENABLE STOP LOSS, SET STOP LOSS PERCENTAGE. (YOU MUST START THE BOT FOR THIS AND THEN SELECT SET SETTINGS FROM THE MENU) !!**
 
 ## Contact:
-For any questions, reach out to me on Telegram: @MisterRust77. I am available for hire.
+For any questions, reach out to me on Telegram: @rust_sol_dev. I am available for hire.
 
 ## Features
 - **Automated Trading:** Automatically buy the latest coins on Pump.Fun and sell them once your target profit percentage or stop-loss percentage is reached.
@@ -33,8 +33,8 @@ For any questions, reach out to me on Telegram: @MisterRust77. I am available fo
 ### Installation
 
 1. Open your terminal.
-2. Clone the repository: git clone https://github.com/idkwhatimdoingimserious/Pump-Fun-Sniper-Solana/
-3. Navigate to the project directory: cd Pump-Fun-Sniper-Solana
+2. Clone the repository: git clone https://github.com/Rust-Sol-Dev/solana-raydium-pumpfun-sniper-trading-bot
+3. Navigate to the project directory: cd solana-raydium-pumpfun-sniper-trading-bot
 4. Install the required dependencies: npm install
 
 ### Configuration
