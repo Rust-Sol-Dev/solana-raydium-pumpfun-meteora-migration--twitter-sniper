@@ -1,4 +1,4 @@
-# Pump-Fun-Sniper-Solana
+# Solana PumpFun / Raydium / Meteora Sniper
 
 
 ##ULTIMATE PRIVATE VERSION NOW AVAILABLE. CONTACT ME FOR PURCHASE##
