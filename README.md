@@ -11,6 +11,7 @@ A Solana tool to buy the latest coins on Pump.Fun, including King of The Hill co
 ### Migration Sniper Bot
 — Migration Tx
 https://solscan.io/tx/3YU9pLYvUM1w6uQrFM9ogMBPCkS9Ktzfu3SqFqB6VZdrwkgWCWFZrADtTJuxErpJ9cBGJRwURwjyNhpLQNBQLtwq
+
 — Snipe Tx
 https://solscan.io/tx/2K9r7m7snAhRwPrT6sm95vYWXqzr3RxUooTBZa2rTX5ZC2MqUst6mk5oPpNaeZrKJLj9nsj7XPjkkR19qDT4NL3u
 
