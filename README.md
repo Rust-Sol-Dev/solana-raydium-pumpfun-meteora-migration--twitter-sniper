@@ -33,7 +33,7 @@ For any questions, reach out to me on Telegram: @rust_sol_dev. I am available fo
 ### Installation
 
 1. Open your terminal.
-2. Clone the repository: git clone https://github.com/Rust-Sol-Dev/solana-raydium-pumpfun-sniper-trading-bot
+2. Clone the repository: git clone https://github.com/Rust-Sol-Dev/solana-raydium-pumpfun-meteora-migration--twitter-sniper
 3. Navigate to the project directory: cd solana-raydium-pumpfun-sniper-trading-bot
 4. Install the required dependencies: npm install
 
