@@ -1,4 +1,4 @@
-# Solana PumpFun / Raydium / Meteora / PumpFun - Raydium Migration Sniper
+# Solana PumpFun / Raydium / Meteora / PumpFun - Raydium Migration / Twitter Sniper
 
 
 ##ULTIMATE PRIVATE VERSION NOW AVAILABLE. CONTACT ME FOR PURCHASE##
